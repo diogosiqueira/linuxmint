@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/linuxsolutions/.icons/Windows-10-master/logo-branca.png" added="2021-04-05T13:14:50Z" modified="2021-04-05T13:15:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xlet-settings.py" exec="&apos;xlet-settings.py %u&apos;" modified="2021-04-05T13:14:50Z" count="1"/>
+          <bookmark:application name="cinnamon-settings.py" exec="&apos;cinnamon-settings.py %u&apos;" modified="2021-04-05T13:15:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

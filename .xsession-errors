@@ -1,0 +1,150 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/linuxsolutions/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=pt_BR:pt:en
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/linuxsolutions
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=linuxsolutions
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/linuxsolutions/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/linuxsolutions
+dbus-update-activation-environment: setting GDM_LANG=pt_BR
+dbus-update-activation-environment: setting HOME=/home/linuxsolutions
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=pt_BR.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=linuxsolutions
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/linuxsolutions/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 17:10:39.618: couldn't access control socket: /run/user/1000/keyring/control: Arquivo ou diretório inexistente
+** Message: 17:10:39.618: couldn't access control socket: /run/user/1000/keyring/control: Arquivo ou diretório inexistente
+[cinnamon-settings-daemon-smartcard] Failed to start: nenhum driver de smartcard adequado pôde ser encontrado
+[cinnamon-settings-daemon-smartcard] Failed to start: nenhum driver de smartcard adequado pôde ser encontrado
+
+** (csd-color:1185): WARNING **: 17:10:40.617: failed to get edid: unable to get EDID for output
+
+** (csd-color:1185): WARNING **: 17:10:40.624: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Cinnamon warning: Software rendering detected: llvmpipe (LLVM 10.0.0, 256 bits)
+Cjs-Message: 17:10:40.849: Profiler is disabled. Not setting up signals.
+Clutter-Message: 17:10:40.905: Sync method: PRESENTATION TIME
+vmware-user: could not open /proc/fs/vmblock/dev
+
+** (nemo-desktop:1355): WARNING **: 17:10:41.125: Current gtk theme is not known to have nemo support (Windows-10) - checking...
+
+(nm-applet:1361): libnotify-WARNING **: 17:10:41.148: Failed to connect to proxy
+
+(nm-applet:1361): nm-applet-WARNING **: 17:10:41.149: Failed to show notification: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.Notifications” on object at path /org/freedesktop/Notifications
+Cjs-Message: 17:10:41.163: JS LOG: About to start Cinnamon
+Cjs-Message: 17:10:41.163: JS LOG: ACTIVATING SOFTWARE RENDERING
+Cjs-Message: 17:10:41.163: JS LOG: [LookingGlass/error] Cinnamon Software Rendering mode enabled
+Cjs-Message: 17:10:41.317: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 152 ms
+Cjs-Message: 17:10:41.324: JS LOG: [LookingGlass/info] loading user theme: /home/linuxsolutions/.themes/Windows-10/cinnamon/cinnamon.css
+Cjs-Message: 17:10:41.339: JS LOG: [LookingGlass/info] added icon directory: /home/linuxsolutions/.themes/Windows-10/cinnamon
+** Message: 17:10:41.464: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 17:10:41.494: JS LOG: [LookingGlass/info] loaded at Mon Apr 05 2021 17:10:41 GMT-0300 (Horário Padrão de Brasília)
+Cjs-Message: 17:10:41.494: JS LOG: Cinnamon started at Mon Apr 05 2021 17:10:41 GMT-0300 (Horário Padrão de Brasília)
+Cjs-Message: 17:10:41.511: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
+Cjs-Message: 17:10:41.511: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
+Cjs-Message: 17:10:41.512: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 17:10:41.660: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 123 ms
+Cjs-Message: 17:10:41.669: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 9 ms
+Cjs-Message: 17:10:41.677: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 17:10:41.681: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 12 ms
+Cjs-Message: 17:10:41.686: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 5 ms
+Cjs-Message: 17:10:41.689: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 17:10:41.691: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 5 ms
+St-Message: 17:10:41.699: cogl npot texture sizes SUPPORTED
+Cjs-Message: 17:10:41.707: JS LOG: [LookingGlass/info] Loaded applet search-box@mtwebster in 16 ms
+Cjs-Message: 17:10:41.723: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 16 ms
+Cjs-Message: 17:10:41.754: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 30 ms
+Cjs-Message: 17:10:41.780: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 26 ms
+Cjs-Message: 17:10:41.787: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 7 ms
+Cinnamon warning: Log level 16: STACK_OP_ADD: window 0x4e00001 already in stack
+Cinnamon warning: Log level 16: STACK_OP_ADD: window 0x4e00001 already in stack
+Cjs-Message: 17:10:41.805: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 18 ms
+Cjs-Message: 17:10:41.828: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 17:10:41.858: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 53 ms
+Cjs-Message: 17:10:41.860: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.50/org/x/StatusIcon/Icon)
+
+** (csd-power:1160): CRITICAL **: 17:10:41.863: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 17:10:41.886: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 28 ms
+Cjs-Message: 17:10:41.899: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.50/org/x/StatusIcon/Icon)
+Cjs-Message: 17:10:41.904: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 18 ms
+Cjs-Message: 17:10:41.957: JS LOG: Unknown network device type, is 14
+Cjs-Message: 17:10:42.118: JS LOG: [LookingGlass/info] Loaded applet CinnVIIStarkMenu@NikoKrause in 214 ms
+Cjs-Message: 17:10:42.119: JS LOG: [LookingGlass/info] AppletManager started in 624 ms
+Cjs-Message: 17:10:42.156: JS LOG: [LookingGlass/info] Cinnamon took 993 ms to start
+
+(cinnamon:1293): St-WARNING **: 17:10:42.215: Ignoring length property that isn't a number at line 1468, col 11
+
+** (csd-color:1185): WARNING **: 17:10:43.293: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1185): WARNING **: 17:10:43.293: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1185): WARNING **: 17:10:43.295: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+cinnamon-session[950]: WARNING: t+6,81283s: Detected that screensaver has appeared on the bus
+Cjs-Message: 17:11:01.542: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.75/org/x/StatusIcon/Icon)
+Cjs-Message: 17:11:21.347: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.78/org/x/StatusIcon/Icon)
+
+(cinnamon:1293): St-WARNING **: 17:16:08.258: Ignoring length property that isn't a number at line 1468, col 11
+
+(cinnamon:1293): St-WARNING **: 17:16:08.262: Ignoring length property that isn't a number at line 1468, col 11
+
+(cinnamon:1293): St-WARNING **: 17:16:08.265: Ignoring length property that isn't a number at line 1468, col 11
+
+(cinnamon:1293): St-WARNING **: 17:16:08.272: Ignoring length property that isn't a number at line 1468, col 11
+
+(cinnamon:1293): St-WARNING **: 17:16:08.320: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:16:08.320: Did not find color property '-gradient-end'
+
+(cinnamon:1293): St-WARNING **: 17:16:08.321: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:16:08.321: Did not find color property '-gradient-end'
+
+(cinnamon:1293): St-WARNING **: 17:16:08.321: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:16:08.321: Did not find color property '-gradient-end'
+
+(cinnamon:1293): St-WARNING **: 17:17:03.201: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:17:03.201: Did not find color property '-gradient-end'
+
+(cinnamon:1293): St-WARNING **: 17:17:03.201: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:17:03.201: Did not find color property '-gradient-end'
+
+(cinnamon:1293): St-WARNING **: 17:18:46.429: Ignoring length property that isn't a number at line 1468, col 11
+
+(cinnamon:1293): St-WARNING **: 17:18:46.434: Ignoring length property that isn't a number at line 1468, col 11
+
+(cinnamon:1293): St-WARNING **: 17:18:46.450: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:18:46.450: Did not find color property '-gradient-end'
+
+(cinnamon:1293): St-WARNING **: 17:18:46.450: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:18:46.450: Did not find color property '-gradient-end'
+
+(cinnamon:1293): St-WARNING **: 17:18:46.450: Did not find color property '-gradient-start'
+
+(cinnamon:1293): St-WARNING **: 17:18:46.450: Did not find color property '-gradient-end'
